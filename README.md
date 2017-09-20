@@ -7,6 +7,9 @@ The objective of this research is to compare the performance of several features
 Classification is performed using Naïve Bayes, Bayesian Logistic Regression, Random Forest Decision Tree, and Support Vector Machine. An 88,6% F-Measure average is achieved when using word n-gram feature with Bayesian Logistic Regression. Results also show that word n-gram feature outperforms character n-gram.
 
 <b>Dataset</b><br>
+The dataset is a two columns data of: tweet - label. 
+The label is Non_HT or HT. Non_HT for "non hate speech" tweet and HT for "hate speech" tweet.
+
 The dataset is available for personal use, but if you want to publish paper using the dataset you should cite this publication:
 
 Ika Alfina and Rio Mulia, <i>"Detecting Hate Speech on Tweets in Indonesian Language Using Machine Learning Approach"</i>, in Proceeding of International Conference on Advanced Computer Science and Information Systems (ICACSIS) 2017 in Bali, Indonesia (accepted).
