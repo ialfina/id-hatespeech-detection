@@ -14,4 +14,4 @@ Number of HT tweets: 260
 
 The dataset is available for personal use, but if you want to publish paper using the dataset you should cite this publication:
 
-Ika Alfina and Rio Mulia, <i>"Detecting Hate Speech on Tweets in Indonesian Language Using Machine Learning Approach"</i>, in Proceeding of International Conference on Advanced Computer Science and Information Systems (ICACSIS) 2017 in Bali, Indonesia (accepted).
+Ika Alfina, Rio Mulia, and Mohamad Ivan Fanany, <i>"Detecting Hate Speech on Tweets in Indonesian Language Using Machine Learning Approach"</i>, in Proceeding of International Conference on Advanced Computer Science and Information Systems (ICACSIS) 2017 in Bali, Indonesia (accepted).
