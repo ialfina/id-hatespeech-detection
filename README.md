@@ -5,9 +5,9 @@
 <b>Dataset</b><br>
 The dataset is a two columns data of: label - tweet, consist of 713 tweets in the Indonesian language. <br>
 The label is Non_HS or HS. Non_HS for "non-hate-speech" tweet and HS for "hate-speech" tweet. <br>
-Number of Non_HT tweets: 453<br>
-Number of HT tweets: 260 <br>
-Since this dataset is unbalance, you might have to do over-sampling/down-sampling in order to create a balanced dataset. <br>
+- Number of Non_HT tweets: 453<br>
+- Number of HT tweets: 260 <br>
+Since this dataset is unbalanced, you might have to do over-sampling/down-sampling in order to create a balanced dataset. <br>
 
 The dataset may be used freely, but if you want to publish paper using the dataset, please cite this publication:
 
