@@ -13,5 +13,5 @@ Since this dataset is unbalanced, you might have to do over-sampling/down-sampli
 The dataset may be used freely, but if you want to publish paper/publication using the dataset, please cite this publication:
 
 <b>Ika Alfina, Rio Mulia, Mohamad Ivan Fanany, and Yudo Ekanata, <i>"Hate Speech Detection in Indonesian Language: A Dataset and Preliminary Study
-"</i>, in Proceeding of 9th International Conference on Advanced Computer Science and Information Systems 2017. ICACSIS) 2017.  (accepted). </b> <br>
+"</i>, in Proceeding of 9th International Conference on Advanced Computer Science and Information Systems 2017. ICACSIS) 2017.  (to be published). </b> <br>
 (https://www.researchgate.net/publication/320131169_Hate_Speech_Detection_in_the_Indonesian_Language_A_Dataset_and_Preliminary_Study)
