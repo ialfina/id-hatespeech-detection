@@ -1,7 +1,5 @@
-# id-hatespeech-detection
-
-<b>The Dataset for Hate Speech Detection in the Indonesian Language</b><br>
-(Dataset untuk Deteksi Ujaran Kebencian dalam Bahasa Indonesia) <br>
+# The Dataset for Hate Speech Detection in the Indonesian Language
+<b>(Dataset untuk Deteksi Ujaran Kebencian dalam Bahasa Indonesia) </b><br>
 
 <b>Dataset</b><br>
 The dataset is a two columns data of: label - tweet, consist of 713 tweets in the Indonesian language. <br>
