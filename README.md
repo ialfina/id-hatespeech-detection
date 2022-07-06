@@ -18,7 +18,7 @@ Ika Alfina, Rio Mulia, Mohamad Ivan Fanany, and Yudo Ekanata, [_"Hate Speech Det
 
 ## Licence
 You can use this dataset for free. You don't need our permission to use it. Please cite our paper if your work uses our data in your publication.
-Please note that you are not allowed to create a copy of this dataset and share it publicly in your own repository withour our permission.
+Please note that you are not allowed to create a copy of this dataset and share it publicly in your own repository without our permission.
 
 ## Contact
-ika.alfina at cs.ui.ac.id
+ika.alfina [at] cs.ui.ac.id
